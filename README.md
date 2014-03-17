@@ -3,10 +3,8 @@ bonjourkoala
 
 tous les jours, dites bonjour à un koala :p
 
-## clone
+* git clone https://github.com/arnaudbey/bonjourkoala.git
 
-## cd bonjourkoala
+* sh bonjourkoala/bonjour.sh
 
-## sh ./bonjour.sh
-
-## enjoy
+* enjoy
